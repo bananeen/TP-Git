@@ -139,4 +139,4 @@ Liste des étudiants ayant réussi ce TP
 * Valentin BONINO,
 * Baptiste LOMBARDO,
 * Maxime COUTURE,
-* Alexandre Patelli.
+* Alexandre PATELLI.
