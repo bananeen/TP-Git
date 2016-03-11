@@ -37,7 +37,7 @@
         git checkout master
         git checkout -b votrecompte1-votrecompte2
         git merge votrecompte1
-        
+
 * Essayez d'intégrer la seconde branche à
 
         git merge votrecompte2
@@ -92,7 +92,7 @@ Liste des étudiants ayant réussi ce TP
 * Christophe MORE,
 * Mohammed Ouadghiri,
 * Togui Ilyass,
-* Nadia Kamoun, 
+* Nadia Kamoun,
 * Simon Renoult,
 * Arthur Bourjac,
 * Darya Ciuhrii,
@@ -137,4 +137,5 @@ Liste des étudiants ayant réussi ce TP
 * Romain GAGNAIRE,
 * Clement DOSDA,
 * Valentin BONINO,
-* Baptiste LOMBARDO.
+* Baptiste LOMBARDO,
+* Maxime COUTURE.
